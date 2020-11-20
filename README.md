@@ -4,6 +4,8 @@ A software engineer raised in Chicago, living in San Francisco.
 
 ([LinkedIn](https://www.linkedin.com/in/neildahlke/) / [Twitter](https://twitter.com/neildahlke) / [Instagram](https://www.instagram.com/eklhad/))
 
+![Profile Views](https://rushter.com/counter.svg)
+
 [![dahlke's Top GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dahlke)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
