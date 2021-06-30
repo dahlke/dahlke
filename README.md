@@ -2,7 +2,7 @@
 
 A software engineer raised in Chicago, living in San Francisco.
 
-([LinkedIn](https://www.linkedin.com/in/neildahlke/) / [Twitter](https://twitter.com/neildahlke) / [Instagram](https://www.instagram.com/eklhad/))
+([LinkedIn](https://www.linkedin.com/in/neildahlke/) / [Twitter](https://twitter.com/neildahlke) / [Instagram](https://www.instagram.com/eklhad/) / [Medium](https://eklhad.medium.com/))
 
 <!--
 
