@@ -1,4 +1,4 @@
-### Hey there 👋, I'm Neil.
+### I'm Neil.
 
 Enterprise software veteran with a lot left to learn. Raised in Chicago, living in San Francisco. Feel free to approach me - I’m always up for a chat. If you don’t know where to start, ask me about: data, cloud infrastructure, skiing, music, or basketball. I suspect we'll find common ground.
 
