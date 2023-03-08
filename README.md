@@ -2,13 +2,12 @@
 
 Enterprise software veteran with a lot left to learn. Raised in Chicago, living in San Francisco. Feel free to approach me - I’m always up for a chat. If you don’t know where to start, ask me about: data, cloud infrastructure, skiing, music, or basketball. I suspect we'll find common ground.
 
-([LinkedIn](https://www.linkedin.com/in/neildahlke/) / [Twitter](https://twitter.com/neildahlke) / [Instagram](https://www.instagram.com/eklhad/) / [Medium](https://eklhad.medium.com/))
-
-[![dahlke's Top GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dahlke)](https://github.com/anuraghazra/github-readme-stats)
-
+[Twitter](https://twitter.com/neildahlke) / [Instagram](https://www.instagram.com/eklhad/) / [Medium](https://eklhad.medium.com/) / [LinkedIn](https://www.linkedin.com/in/neildahlke/) / [Strava](https://www.strava.com/athletes/4351145) / [Résumé](https://dahlke.io/static/resume.html)
 
 <!--
 **dahlke/dahlke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![dahlke's Top GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dahlke)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
