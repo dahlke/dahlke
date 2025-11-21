@@ -1,6 +1,6 @@
 ### I'm Neil.
 
-Enterprise software veteran with a lot left to learn. Raised in Chicago, living in San Francisco. Feel free to approach me - I’m always up for a chat. If you don’t know where to start, ask me about: agents, LLM apps, observabilitty, data, cloud infrastructure, durable execution, distributed systems, golf, skiing, music, or team sports. I suspect we'll find common ground.
+Enterprise software veteran with a lot left to learn. Raised in Chicago, living in San Francisco. Feel free to approach me - I'm always up for a chat. If you don't know where to start, ask me about: LLMs, agents and evals, observability, data systems, cloud infrastructure, distributed systems, durable execution, skiing, music, team sports, or golf. I suspect we'll find common ground.
 
 [Instagram](https://www.instagram.com/eklhad/) / [X](https://x.com/neildahlke) /  [Medium](https://eklhad.medium.com/) / [LinkedIn](https://www.linkedin.com/in/neildahlke/) / [Strava](https://www.strava.com/athletes/4351145) / [Résumé](https://dahlke.io/static/resume.html)
 
