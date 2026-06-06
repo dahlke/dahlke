@@ -13,6 +13,6 @@ Raised in Chicago, living in San Francisco. Feel free to approach me - I'm alway
 - [HashiCorp Vault PKI White Paper](https://dahlke.io/pub/vault) (2021)
 - [Migrating A Lot of State with Python and the Terraform Cloud API](https://dahlke.io/pub/terraform) (2020)
 
--- 
+--- 
 
 [Instagram](https://www.instagram.com/eklhad/) / [X](https://x.com/neildahlke) /  [Medium](https://eklhad.medium.com/) / [LinkedIn](https://www.linkedin.com/in/neildahlke/) / [Strava](https://www.strava.com/athletes/4351145) / [Résumé](https://dahlke.io/static/resume.html)
