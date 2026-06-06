@@ -1,22 +1,14 @@
-### I'm Neil.
+# I'm Neil.
 
-Enterprise software veteran with a lot left to learn, currently Director of Deployed Engineering (West) at [LangChain](https://langchain.com). Raised in Chicago, living in San Francisco. Feel free to approach me - I'm always up for a chat. If you don't know where to start, ask me about: LLMs, agents and evals, LangChain, LangGraph, RAG, observability, data systems, cloud infrastructure, distributed systems, skiing, music, team sports, or golf. I suspect we'll find common ground.
+Director of Deployed Engineering (West) at LangChain. Came up through SingleStore (back when it was MemSQL), HashiCorp, and Temporal. Always the customer side of deeply technical products.
+
+Raised in Chicago, living in San Francisco. Feel free to approach me - I'm always up for a chat.  If you don't know where to start, ask me about: LLMs, agents and evals, LangChain, LangGraph, RAG, observability, data systems, cloud infrastructure, distributed systems, skiing, music, team sports, or golf. I suspect we'll find common ground.
+
+## Writing
+
+- [Why Model Neutrality Matters More Than Cloud Neutrality](https://dahlke.io/pub/model-neutrality) (LangChain, 2026)
+- [Building Resilient Distributed Systems with Temporal and AWS](https://dahlke.io/pub/temporal) (AWS APN, 2025)
+- [HashiCorp Vault PKI White Paper](https://dahlke.io/pub/vault) (2021)
+- [Migrating A Lot of State with Python and the Terraform Cloud API](https://dahlke.io/pub/terraform) (2020)
 
 [Instagram](https://www.instagram.com/eklhad/) / [X](https://x.com/neildahlke) /  [Medium](https://eklhad.medium.com/) / [LinkedIn](https://www.linkedin.com/in/neildahlke/) / [Strava](https://www.strava.com/athletes/4351145) / [Résumé](https://dahlke.io/static/resume.html)
-
-<!--
-**dahlke/dahlke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![dahlke's Top GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dahlke)](https://github.com/anuraghazra/github-readme-stats)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
