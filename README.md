@@ -2,7 +2,7 @@
 
 Director of Deployed Engineering (West) at LangChain. Came up through SingleStore (back when it was MemSQL), HashiCorp, and Temporal. Always the customer side of deeply technical products.
 
-Raised in Chicago, living in San Francisco. Feel free to approach me - I'm always up for a chat.  If you don't know where to start, ask me about: LLMs, agents and evals, LangChain, LangGraph, RAG, observability, data systems, cloud infrastructure, distributed systems, skiing, music, team sports, or golf. I suspect we'll find common ground.
+Raised in Chicago, living in San Francisco. Feel free to approach me - I'm always up for a chat.  If you don't know where to start, ask me about: LLMs, agents and evals, LangChain, LangGraph, RAG, observability, data systems, cloud infrastructure, distributed systems, skiing, music, backpacking, team sports, or golf. I suspect we'll find common ground.
 
 
 
